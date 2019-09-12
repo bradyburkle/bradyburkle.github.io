@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bradyburkle/static/css/main.2cce8147.chunk.css",
+    "main.js": "/bradyburkle/static/js/main.4ecd9352.chunk.js",
+    "main.js.map": "/bradyburkle/static/js/main.4ecd9352.chunk.js.map",
+    "runtime~main.js": "/bradyburkle/static/js/runtime~main.a71d4bf8.js",
+    "runtime~main.js.map": "/bradyburkle/static/js/runtime~main.a71d4bf8.js.map",
+    "static/css/2.aff44bb9.chunk.css": "/bradyburkle/static/css/2.aff44bb9.chunk.css",
+    "static/js/2.5f876bd2.chunk.js": "/bradyburkle/static/js/2.5f876bd2.chunk.js",
+    "static/js/2.5f876bd2.chunk.js.map": "/bradyburkle/static/js/2.5f876bd2.chunk.js.map",
+    "index.html": "/bradyburkle/index.html",
+    "precache-manifest.ce68b922dac6b8ed1f77f9a557fac346.js": "/bradyburkle/precache-manifest.ce68b922dac6b8ed1f77f9a557fac346.js",
+    "service-worker.js": "/bradyburkle/service-worker.js",
+    "static/css/2.aff44bb9.chunk.css.map": "/bradyburkle/static/css/2.aff44bb9.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/bradyburkle/static/css/main.2cce8147.chunk.css.map",
+    "static/media/mdb.css": "/bradyburkle/static/media/default-skin.b257fa9c.svg",
+    "static/media/all.min.css": "/bradyburkle/static/media/fa-solid-900.f14c3b2f.ttf"
+  }
+}
